@@ -1,103 +1,198 @@
 <!-- ===================== HEADER ===================== -->
+
 <h1 align="center">Hi 👋, I'm Kajanika Sivatheepan</h1>
 
 <p align="center">
-  <a href="https://github.com/kajanika">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Aspiring+Web+Developer+%F0%9F%92%BB;Open-Source+Explorer+%F0%9F%8C%8D" alt="Typing SVG" />
-  </a>
+  <strong>Software Engineering Undergraduate • Data & Design Enthusiast • Technology Explorer</strong>
 </p>
-
-<h3 align="center">1st Year Software Engineering Student at Sabaragamuwa University of Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kajanika&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/kajanika">
+    <img src="https://komarev.com/ghpvc/?username=kajanika&label=Profile%20Views&color=1E3A8A&style=flat-square" alt="Profile Views" />
+  </a>
   <a href="https://github.com/kajanika?tab=followers">
-    <img src="https://img.shields.io/github/followers/kajanika?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/kajanika?label=Followers&style=flat-square&color=1E3A8A" alt="GitHub Followers" />
   </a>
 </p>
 
----
-
-<!-- ===================== ABOUT ME ===================== -->
-## 🙋‍♀️ About Me
-
-I'm passionate about **UI/UX design**, **web development**, and exploring the world of **open-source software**. I enjoy turning ideas into clean, user-friendly interfaces and I'm always learning something new.
-
-- 🔭 Currently working on **a travel app UI using Figma**
-- 🌱 Currently learning **Python, Java, UI/UX Design and Git**
-- 👯 Looking to collaborate on **UI/UX and beginner-friendly open-source projects**
-- 💬 Ask me about **HTML, CSS, Figma and design basics**
-- 📫 Reach me at **[kajanika955@gmail.com](mailto:kajanika955@gmail.com)**
-- ⚡ Fun fact: **I love designing apps for places I want to travel to!**
-
----
-
-<!-- ===================== CONNECT ===================== -->
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/kajanika-sivatheepan-0874ab29a" target="_blank">
+<p align="center">
+  <a href="https://kajanika.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/kajanika-sivatheepan-0874ab29a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kajanika955@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/kajanika_001" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://leetcode.com/kajanika1" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-<!-- ===================== SKILLS ===================== -->
-## 🛠️ Languages & Tools
+## 👩‍💻 About Me
 
-**Languages**
+I'm a **3rd-year Software Engineering undergraduate at Sabaragamuwa University of Sri Lanka**, passionate about building useful digital solutions and continuously expanding my technical and design skills.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js&perline=10" alt="Languages" />
+My interests currently span **Software Engineering, Data Science, Data Analytics, UI/UX Design, and Artificial Intelligence**. I enjoy exploring how technology, data, and thoughtful design can work together to create better user experiences.
+
+- 🎓 3rd Year Software Engineering Undergraduate
+- 💼 Preparing for **internship opportunities in 2027**
+- 📊 Exploring **Data Science, Data Analytics & Power BI**
+- 🎨 Learning **UI/UX Design & Figma**
+- 🤖 Exploring **AI/ML and data-driven solutions**
+- 💻 Building projects to strengthen my software engineering skills
+- 🌱 Continuously learning through projects, courses, and hands-on practice
+
+---
+
+## 🚀 What I'm Currently Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Data & AI
+
+Exploring **Data Science, Data Analytics, Python, AI/ML, and Power BI** while working on practical datasets and visualization-based projects.
+
+</td>
+
+<td width="50%">
+
+### 🎨 UI/UX & Product Design
+
+Learning **Figma and UI/UX principles** while designing user-centered interfaces and improving the usability of digital products.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💻 Software Engineering
+
+Building academic and personal projects using technologies such as **Java, Python, JavaScript, React, Node.js, and MySQL**.
+
+</td>
+
+<td width="50%">
+
+### 📚 Continuous Learning
+
+Currently strengthening my knowledge through **university studies, Coursera courses, technical projects, and hands-on experimentation**.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,nodejs,mysql,git,github,vscode" />
 </p>
 
-**Web Development**
+### 📊 Data & Analytics
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap&perline=10" alt="Web" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-**Database, Design & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
+</p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,figma,git,github,vscode&perline=10" alt="Tools" />
+### 🎨 Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
+## 📌 Projects & Learning
+
+### 🗓️ Evently — Event Planning & Service Booking
+
+A premium event planning concept focused on helping users plan events and discover and book services such as:
+
+**Venues • Catering • Photography • Decoration • Cakes • Makeup • Entertainment • Transport • Invitations**
+
+**Focus:** Product Design • UI/UX • User Experience • Service Booking
+
+---
+
+### 🏋️ PowerZone — Gym Management System
+
+A university group project designed to manage gym operations through separate **Admin, Trainer, and Member** functionalities.
+
+**Tech:** React • Node.js • Express.js • MySQL
+
+---
+
+### 🍱 BiteGo — Nearby Food Pickup Platform
+
+A food discovery and reservation concept connecting local food providers with customers looking for available and additional food at discounted or free prices.
+
+**Focus:** UI/UX • Product Design • Local Community • Food Pickup
+
+---
+
+## 🎯 Areas I'm Exploring
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kajanika&show_icons=true&hide_border=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajanika&layout=compact&hide_border=true&theme=tokyonight&locale=en" alt="Top Languages" />
+
+`Software Engineering` &nbsp; `Data Science` &nbsp; `Data Analytics`
+
+`UI/UX Design` &nbsp; `Artificial Intelligence` &nbsp; `Power BI`
+
+`Web Technologies` &nbsp; `Product Design` &nbsp; `Open Source`
+
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kajanika&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajanika&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kajanika&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajanika&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 GitHub Trophies
+---
+
+## 🏆 Certifications & Learning
+
+- 🎓 **Software Engineering Undergraduate** — Sabaragamuwa University of Sri Lanka
+- 🤖 **AI for Data Analysis** — Coursera
+- 🎨 **Introduction to Front-End Development** — Meta / Coursera
+- 📚 Continuously developing skills in **Data Science, UI/UX, Figma, Power BI & Software Engineering**
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating on projects, and connecting with people in technology.
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kajanika&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  <a href="https://kajanika.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kajanika-sivatheepan-0874ab29a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kajanika955@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>✨ Thanks for visiting my profile! Have a great day ✨</i>
+  <i>Learning. Designing. Building. Growing. 🚀</i>
 </p>
