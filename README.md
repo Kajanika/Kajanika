@@ -88,3 +88,16 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kajanika&show_icons=true&theme=default&hide_border=true" height="180" alt="Kajanika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajanika&layout=compact&hide_border=true&theme=default" height="180" alt="Kajanika's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajanika&hide_border=true&theme=default" alt="Kajanika's GitHub Streak" />
+</p>
