@@ -1,73 +1,62 @@
-<h1 align="center">Hi there 👋, I'm Kajanika Sivatheepan 💻</h1>
+<h1 align="center">Hi there, I'm Kajanika Sivatheepan 👋</h1>
+<h3 align="center">Software Engineering Undergraduate | Data Science & AI Enthusiast | UI/UX Learner</h3>
 
 <p align="center">
-  <em>Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka • Preparing for 2027 Internships</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kajanika-sivatheepan-0874ab29a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://kajanika.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:kajanika955@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Exploring+Data+Science+%26+Artificial+Intelligence;Building+practical+software+projects;Learning+UI%2FUX+%26+data+visualisation;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💻 I'm currently working with...
+### 🚀 About Me
 
-**Programming & Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" alt="Development Tech" />
-</p>
-
-**Tools & Workflow**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
-</p>
+- 🎓 BSc (Hons) Software Engineering Undergraduate, Sabaragamuwa University of Sri Lanka
+- 💻 Interested in software engineering, data science, and artificial intelligence
+- 📊 Exploring data analysis, data visualisation, and Power BI
+- 🎨 Learning UI/UX design and building user-centred digital experiences with Figma
+- 🌱 Continuously developing my skills through academic projects, online courses, and practical projects
+- 🚀 Seeking an internship opportunity to apply my knowledge to real-world projects and gain industry experience
+- 📫 Reach me through my GitHub and LinkedIn profiles
 
 ---
 
-### 🌱 I'm currently learning...
+### 🛠️ Tech Stack
 
-**Data Science & Analytics**
+**Programming Languages**
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**UI/UX & Product Design**
+**Frameworks & Libraries**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-**Web Technologies**
+**Data & Design Tools**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="Web Stack" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
+**Areas of Interest**
 
-### 📌 Featured Projects
-
-* **🗓️ Evently:** A premium event planning concept and service-booking platform focused on UI/UX and user experience.
-* **🏋️ PowerZone:** A gym management system built with React, Node.js, Express.js, and MySQL.
-* **🍱 BiteGo:** A local food pickup platform connecting providers with users to reduce food waste.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kajanika&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajanika&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajanika&hide_border=true" alt="GitHub Streak" />
+<p>
+  <img src="https://img.shields.io/badge/Data_Science-1F77B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-E91E63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Visualisation-00A98F?style=for-the-badge" />
 </p>
