@@ -61,6 +61,7 @@
   <img src="https://img.shields.io/badge/Data_Visualisation-00A98F?style=for-the-badge" />
 </p>
 
+---
 
 ### 🌟 Featured Projects
 
@@ -69,6 +70,7 @@
 - 🏋️ **PowerZone Gym Management System** — A web-based gym management system with Admin, Trainer, and Member roles, including membership, training, and protein shop features.
 - 📊 **Data Analysis & Visualisation Projects** — Exploring data analysis, dashboards, and business insights using Python and Power BI.
 
+---
 
 ### 🤝 Connect With Me
 
