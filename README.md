@@ -60,3 +60,23 @@
   <img src="https://img.shields.io/badge/UI%2FUX_Design-E91E63?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data_Visualisation-00A98F?style=for-the-badge" />
 </p>
+
+
+### 🌟 Featured Projects
+
+- 🍽️ **BiteGo** — A food availability and pickup platform connecting local food providers with nearby customers to reduce food waste.
+- 🎉 **Evently** — A premium event planning and service booking platform for weddings, birthdays, engagements, graduations, and other events.
+- 🏋️ **PowerZone Gym Management System** — A web-based gym management system with Admin, Trainer, and Member roles, including membership, training, and protein shop features.
+- 📊 **Data Analysis & Visualisation Projects** — Exploring data analysis, dashboards, and business insights using Python and Power BI.
+
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/kajanika">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
