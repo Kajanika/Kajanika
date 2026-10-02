@@ -15,7 +15,7 @@
 - 🎨 Learning UI/UX design and building user-centred digital experiences with Figma
 - 🌱 Continuously developing my skills through academic projects, online courses, and practical projects
 - 🚀 Seeking an internship opportunity to apply my knowledge to real-world projects and gain industry experience
-- 📫 Reach me through my GitHub and LinkedIn profiles
+- 📫 Reach me at kajanika955@gmail.com
 
 ---
 
